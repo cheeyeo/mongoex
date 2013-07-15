@@ -1,2 +1,2 @@
 [ "bson": {:git, "git://github.com/mongodb/bson-erlang", "6d3cc910eac6d4c21402427b41c411e201eca424", [{:ref, "HEAD"}]},
-  "mongodb": {:git, "git://github.com/mururu/mongodb-erlang.git", "4c640620bf2ab82d9be85d527a229cd6b60a4c02", []} ]
+  "mongodb": {:git, "git://github.com/cheeyeo/mongodb-erlang.git", "12fcf6889bd9586bd6eb95daddad2a1c307af25e", []} ]
